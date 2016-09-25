@@ -1,5 +1,7 @@
 # Copyright-Leger
 
+*** Project transfered to https://github.com/nuke3/Copyright-Leger/ ***
+
 Copyright-Leger is a softwer created by Quark Sp. zo.o. Company from Poland.
 
 Licenz: MIT
